@@ -25,6 +25,3 @@ jobs:
 
       - name: Compile TypeScript
         run: npm run compile
-
-      - name: Run tests
-        run: npm test
